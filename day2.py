@@ -1,7 +1,6 @@
 # getting the input from the user.
 input = str(input("Enter the name:"))
 
-
 list = ["prabin","subedi"]
 # appendig the input to the list.
 list.append(input)
