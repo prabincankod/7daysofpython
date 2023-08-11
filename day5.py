@@ -19,3 +19,4 @@ class Email(Letterhead):
 
 
 newEmail=Email(body="this is a body.",coordinator="ramesh prashain",id="99",recipient="gagane@sallaghari.com",subject="regarding nothing.")
+# now do your wish aage se aalu daalo yaa sona.
