@@ -5,4 +5,4 @@
 - [x] day4
 - [x] day5
 - [x] day6
-- [ ] day7
+- [x] day7
